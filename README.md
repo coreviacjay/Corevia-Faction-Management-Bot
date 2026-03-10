@@ -32,5 +32,3 @@ Built with precision, scalability, and Corevia‑grade branding.
  
   Need help?? Make a ticket at https://discord.gg/MAW35SvyQ8
 
-## 📂 Project Structure
-
